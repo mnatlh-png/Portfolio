@@ -1,9 +1,4 @@
-/*
- * Author by FreeHTML5.co
- * Twitter: https://twitter.com/fh5co
- * Facebook: https://fb.com/fh5co
- * URL: https://freehtml5.co
- */
+
 /* Fonts */
 @font-face {
   font-family: 'Calisto-MT';
@@ -530,6 +525,11 @@
   .single-count__text img {
     margin-right: 20px; }
 
+.single-count a {
+  color: white;
+  text-decoration: none;
+}
+
 .fh5co-blog {
   margin-bottom: 175px; }
   .fh5co-blog .universal-h2 {
@@ -861,7 +861,4 @@
         font-size: 14px;
         margin-bottom: 20px; } }
 
-.single-count a {
-  color: white;
-  text-decoration: none;
-}
+
